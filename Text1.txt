@@ -1,1 +1,4 @@
-Added text changes from github
+1. Added text changes from github
+
+2. Added changes from local
+
